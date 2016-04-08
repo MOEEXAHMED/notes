@@ -1,0 +1,36 @@
+<html>
+     <body> 
+ <h1> <center> Curriculum Vitae </center> </h1>
+          <h2> <u>MOEEZ  AHMED </u> </h2>
+ <h2><u><i> Career Objective </i></u></h2> 
+          <p> To become a member of a dedicated organization, where my talents 
+              My goal will be to direct efforts towards the dedicated organization. Accomplishing this through the
+              continual progression of my knowledge. </p>
+ <h2><u><i>  Academic Qualification</i></u></h2>
+          <h4> <u> Matric (Science) 2013 </u> </h4>    
+          <p> From board of secondary education Karachi. </p>
+          <h4> <u> Intermediate (Commerce) 2015 </u> </h4>
+          <p> From Formen college. </p>
+          <h4> <u> B.COM </u> </h4>
+          <P> From Formen college still and progress. </P>
+ <h2><u><i> Computer Skills </i></u></h2>
+        <p> (M.S Office, Photoshop , Internet) </p>        
+ <h2><u><i> Professional Experience:  </i></u></h2> 
+        <h4> Mobile Shop 2011-2014</h4>
+        <p>Easy Load , Easy Paisa , Bill Payment and Sale/Purchase.</p>
+        <h4> Siddiqsons Limited </h4>
+        <p>Worked as Computer Operator in Store from <b> October-2014 to April-2015 </b> </p>
+        <h4> Kam International Garments </h4>
+        <p>Worked as Computer Operator in Store from <b> May-2015 to November-2015 </b> </p>
+ <h2><u><i> Personal Data </h2></u></i>
+        <p><br> Father's Name   :<b> Taj Muhammad                                     </b>
+           <br> Date of Birth   :<b> 08/02/1995                                       </b>
+           <br> Religion        :<b> Islam                                            </b>
+           <br> Mailing Address :<b> Moeezahmed11@gmail.com                           </b>
+           <br> Marital Status  :<b> Single                                           </b>
+           <br> Mobile          :<b> 0347-2539329                                     </b>
+           <br> CNIC            :<b> 42401-9040796-7                                  </b>
+           <br> Address         :<b> A-584 Hasrat Mohani Colony Manghopir Road Karachi</b> </p>
+                      </body>
+</html>        
+            
